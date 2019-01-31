@@ -4,7 +4,8 @@ out/papua_new_guinea.png \
 out/globe.png \
 out/dpla.png \
 out/lfa_square.png \
-out/lfa_circle.png
+out/lfa_circle.png \
+out/preview.html
 
 out:
 	mkdir -p out
@@ -26,6 +27,9 @@ out/lfa_square.png: src/lfa_square.png out
 
 out/lfa_circle.png: src/lfa_circle.png out
 	convert src/lfa_circle.png -scale 1% out/lfa_circle.png
+
+out/preview.html: src/preview.html out
+	cp src/preview.html out/preview.html
 
 clean:
 	rm -rf out
