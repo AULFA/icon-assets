@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-417.97575"
-     inkscape:cy="431.18793"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="244.69969"
+     inkscape:cy="379.45356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -86,6 +86,13 @@
          id="path4551"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="opacity:1;fill:#eb1b23;fill-opacity:1;stroke:none;stroke-width:5.64444447;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821"
+       width="198.96666"
+       height="156.63333"
+       x="33.866665"
+       y="47.233311" />
     <rect
        style="opacity:1;fill:#eb1b23;fill-opacity:1;stroke:#fffffc;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4576"
